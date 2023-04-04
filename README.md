@@ -9,7 +9,14 @@ Team Members:
 Project Description/Outline:
 This project will look at the data on the average cost of college in the US by state, type of institution, and year (3-5 year span). Provide a deeper understanding on financials of undergraduate education across the US.
 Research Questions to Answer:
--	Top 5 best schools for funding (most expensive) /year
+-	2021 Average Fees/Tuition Cost of a 4 Year Public Education (All States)
+-    2021 Average Fees/Tuition of a 2 Year Public Education (All States)
+-    2021 State Cost Comparison of a 2 and 4 Year Public Education (All States)
+-    2021 Average Fees/Tuition Cost of a Private Education (All States)
+-     2021 State Cost Comparison of a Private and Public Education (All States)
+
+
+- 	Top 5 best schools for funding (most expensive) /year
 -	Top 5 best schools for funding (most expensive) by state /year
 -	Top 5 lowest schools for funding (least expensive) /year
 -	Top 5 lowest schools for funding (least expensive) by state/year
