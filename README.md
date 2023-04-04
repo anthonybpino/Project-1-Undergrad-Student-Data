@@ -16,7 +16,8 @@ Research Questions to Answer:
 -   Avg  cost of Private on a 4 year education based on tuition 2021                            -- Chart completed 
             Data not available for Private 2 year tuition
 -   State Cost comparison of private and public education.  for 2021                            -- chart completed. 
-NEMA Suggestions 
+
+------------NEMA Suggestions 
 -   Average price at all ranked private colleges for school year 2021 – 2022
 -   Average price increase during a five year period (is it rising by how much %)
 -   Average price at all ranked private colleges for school year 2021 – 2022
