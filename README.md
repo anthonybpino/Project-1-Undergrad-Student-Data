@@ -1,58 +1,42 @@
-# Project-1-Undergrad-Student-Data
-Project Title: Average cost of undergraduate student by state USA
-Team Members:
--	Debra Mcnulty
--	Robert Bellgraph
--	Anthony Pino
--	Nema Aragones
 
-Project Description/Outline:
-This project will look at the data on the average cost of college in the US by state, type of institution, and year (3-5 year span). Provide a deeper understanding on financials of undergraduate education across the US.
-Research Questions to Answer:
-What the Average Tuitions for 2 and 4 year Educatioin by Public and Private
--	  Average Cost for a 4 year Public Education  based on Tuition      2021                  --  Chart completed 
--   Average Cost for a 2 year Public Education   based on Tuition    2021                   --  Chart completed 
--   State Cost comparison of 2 and 4 year Public                                            -- Chart completed 
-                Can we add the dollar to the top of the chart bars if they are not there. 
--   Avg  cost of Private on a 4 year education based on tuition 2021                            -- Chart completed 
-            Data not available for Private 2 year tuition
--   State Cost comparison of private and public education.  for 2021                            -- chart completed. 
+Introduction: Given an opportunity, people want to pursue college education for various reasons. The reason might be getting a high-paying 		job, developing skills, increase job opportunities just to name a few. There are other mixture of reasons for an individual in 		going to college. But let’s face the reality, that the expenses (tuition, room & board) often get in the way.
 
-------------NEMA Suggestions 
--   Average price at all ranked private colleges for school year 2021 – 2022  --- included in Anthony 
--   Average price increase during a five year period (is it rising by how much %)                 NEED  --   Nema 
--   Average price at all ranked private colleges for school year 2020 and 2021                    NEED  --   Nema 
-    Average price increase during a five year period (If interested to go in out-of-state at ranked public schools:)   NEED -- Robert 
-    Average price at all ranked private colleges for school year 2020 and 2021                                         NEED -- Robert 
-    
+Project Title: Average Cost of Undergraduate Education in the USA
 
--	Looking for type of school (private / public-in-state/ public-out-state) Do they off all the same benefit?? Extra credit 
--	
--	Did COVID-19 has an effect on the fees (can we ask if we can the affect covid by looking to see if the average before 2021 was inline with the standard increase from year to year prior to 2019 )   Extra Credit    Above or below trending line 
--	CHARTS NEEDED:  
-    heat map for cost per state. API       ANTHONY 
+Project Description: 
+ 	This project will look at the data on the average cost of college in the USA by state, type of institution, length of study, and 	year. It   	will assist in providing a deeper understanding on the financials of undergraduate education across the US. Specifically 	it will contribute in answering common questions listed below if one is evaluating going to college.
 
-ORIGINAL Top 5 best schools for funding (most expensive) /year
--	Top 5 best schools for funding (most expensive) by state /year  -- Deb 
--	Top 5 lowest schools for funding (least expensive) /year
--	Top 5 lowest schools for funding (least expensive) by state/year
-Looking for schools by state within specific ranges (small, med, large)
-    
+	Which 5 states had the lowest & highest average tuition fees in a public out-of-state institution year 2021 
+	Which 5 states had the lowest & highest average tuition fees  in a public out-of-state type institution year 2019 
+	What the average percentage tuition increase in tuition cost in a public out-of-state type institution year 2019 – 2021
+	Does tuition increase every year and continue to increase every year ?
+	Can one afford to get a 4 year undergraduate degree with a budget of $10000 per year on expenses (tuition & room/board)
+	What type of institution would one go to on a tight budget to pursue an undergraduate education?
+	What’s the average 4 year  undergraduate cost of a private institution?
 
-Datasets to Be Used:
+Data used: 
+- nces330_20.csv
+- ValueLabels_4-1-2023---430.csv
+- Data_4-1-2023---430.csv
+
+Source/s: 
 -	https://www.kaggle.com/datasets/bhargavchirumamilla/average-cost-of-undergraduate-student-by-state-usa/code
 -	https://catalog.data.gov/dataset/?tags=college&organization_type=Federal+Government&organization=ed-gov
 -	https://educationdata.urban.org/documentation/
 -	http://www.collegescholarships.org/scholarships/states.htm
 -	https://www.kaggle.com/code/ahmedklabi/eda-linear-regression-on-expenses-students
+
 Rough Breakdown of Tasks 
 -	Data Exploration (Grab data from the source/s and explore)
 -	Clean data   
 -	Coding (import data, computation)
--	Data Visualization - Create visualization (charts)
+-	Data Visualization - Create visualization (plots)
 -	Data Analysis
 -	Project PowerPoint presentation
--	Start collaborating as a group & eventually break up as a team of 2 
 
+Team Members: 
+-	Debra Mcnulty
+-	Robert Bellgraph
+-	Anthony Pino
+-	Nema Aragones
 
-Sources-  
