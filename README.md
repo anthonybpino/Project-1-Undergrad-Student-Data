@@ -4,7 +4,7 @@ Introduction: Given an opportunity, people want to pursue college education for 
 Project Title: Average Cost of Undergraduate Education in the USA
 
 Project Description: 
- 	This project will look at the data on the average cost of college in the USA by state, type of institution, length of study, and 	year. It   	will assist in providing a deeper understanding on the financials of undergraduate education across the US. Specifically 	it will contribute in answering common questions listed below if one is evaluating going to college.
+ 	This project will look at the data from year 2013-2021 on the average cost of college in the USA by state, type of institution, length of study, and year. It will assist in providing a deeper understanding on the financials of undergraduate education across the US. Specifically 	it will contribute in answering common questions listed below if one is evaluating going to college.
 
 	Which 5 states had the lowest & highest average tuition fees in a public out-of-state institution year 2021 
 	Which 5 states had the lowest & highest average tuition fees  in a public out-of-state type institution year 2019 
