@@ -9,17 +9,20 @@ Project Title: Average Cost of Undergraduate Education in the USA
 
 Project Description: This project will look at the data from year 2013-2021 on the average cost of college in the USA by state, type of institution, length of study, and year. It will assist in providing a deeper understanding on the financials of undergraduate education across the US. Specifically it will contribute in answering common questions listed below if one is evaluating going to college.
 
- Which 5 states had the lowest & highest average tuition fees in a public out-of-state institution year 2021
+ Which 5 states had the lowest & highest average tuition fees in a public out-of-state and private institution for year 2021 and  what is the percentage from the lowest and the highest cost ?
 
- Which 5 states had the lowest & highest average tuition fees in a public out-of-state type institution year 2019 
+ Is there a significant greater cost between Private an Public Education. 
 
- What the average percentage tuition increase in tuition cost in a public out-of-state type institution year 2019 – 2021 
+ Can one afford to get a 4-year undergraduate degree with a budget of $10000 per year on expenses (tuition & room/board)?
 
- Does tuition increase every year and continue to increase every year ?  Can one afford to get a 4 year undergraduate degree with a budget of $10000 per year on expenses (tuition & room/board) 
+ On the map, can we see the locations that present where I can assess the states to choose a college?
 
- What type of institution would one go to on a tight budget to pursue an undergraduate education? 
+ What type of institution would one go to on a tight budget to pursue an undergraduate education? And is is best to start  with a 2 year and then move to a 4 year? 
 
- What’s the average 4 year undergraduate cost of a private institution?
+ What kind do the higher brackets looks like for the more expensive schools and what part of the states have the most schools? 
+
+ Evaluation to determine if Covid had an Impact to lessen the standard increase
+
 
 Data used:
 
