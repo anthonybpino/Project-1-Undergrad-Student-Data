@@ -51,3 +51,33 @@ Debra Mcnulty
 Robert Bellgraph
 Anthony Pino
 Nema Aragones 
+
+
+
+CONCLUSION 
+
+Which 5 states had the lowest & highest average tuition fees in a public out-of-state institution year 2021 and  what is the percentage from the lowest and the highest cost ?
+Public
+ 	Highest Average - Vermont ($41,963)  Michigan ($39,427)  Connecticut($36,881)  Virginia ($36,881)  California ($34,398) 
+	Lowest Average -  South Dakota ($12,924)  District of Columbia ($14,540)  Wyoming ($14,803)  North Dakota ($18,514)  New Mexico ($19,021)
+Private
+	Highest -  Massachusetts ($ 49,152)  Vermont ($ 48,300)  Rhode Island ($ 45,927)  Oregon ($ 45,166)  District of Columbia ($ 44,692)
+	Lowest-   Idaho($6,752)  Utah($7,852)  West Virginia ($12,673)  Arizona($13,487)  Delaware($15,096)
+
+Is there a significant greater cost between Private an Public Education. 
+Private does have a great cost indicated however based on the mean it is only about a $4000 variance. Our average for private is $30949 and for public it is $26,949.
+
+Can one afford to get a 4-year undergraduate degree with a budget of $10000 per year on expenses (tuition & room/board)? 
+Yes, based on the analysis a person does have options for a 4 years degree in some states but they are minimal and private. We can see public schools showing starting about $12K. 
+
+On the map, can we see the locations that present where I can assess the states to choose a college? 
+Yes the heat map gives us indicators of cost and where you would typically find lower and higher cost for schools. 
+
+What type of institution would one go to on a tight budget to pursue an undergraduate education? 
+And is it best to start with a 2 year and then move to a 4 year?  Based on the analysis the 2 years has a lower cost overall and may be the best place to start on a budget and move to a 4 years if funds are increasing and budget can sustain. 
+
+ What does higher priced school look like and how much more expensive are they and what part of the states have the most schools? 
+We can see costs for higher priced schools with pricing range over $100K annually and even greater than $140K.  You can see on the map that school are over but more abundant in the Middle, East and far West States. 
+
+ Evaluation to determine if Covid had an Impact to lessen the standard increase:  Based on the data that we have here we do not see an impact for any decrease in school costs. More data may over additional conclusions but as of today, no impact. Only increases from year to year. 
+
