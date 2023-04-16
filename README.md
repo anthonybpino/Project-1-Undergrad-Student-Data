@@ -10,7 +10,7 @@ Project Description: This project will look at the data from year 2013-2021 on t
 
  - Which 5 states had the lowest & highest average tuition fees in a public out-of-state and private institution for year 2021 and  what is the percentage from the lowest and the highest cost?
 
- - Is there a significant greater cost between Private an Public Education. 
+ - Is there a significant greater cost between Private and Public Education. 
 
  - Can one afford to get a 4-year undergraduate degree with a budget of $10000 per year on expenses (tuition & room/board)?
 
